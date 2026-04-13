@@ -1,6 +1,6 @@
 // Abraham Lincoln
 // 10 APR 20XX
-// Calculate Average Without Function
+// Calculate Student Averages
 
 // Student 1 (Mike)
 const score1 = 88;
