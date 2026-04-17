@@ -6,8 +6,9 @@
 // length of a rectangular room, width of a rectangular room, etc.
 
 // Example 1
-// Prompt user for their age, then use parseFloat() function to convert input into a number
+// Prompt user for their age
 let age = prompt('Please enter your age (Example: 25):\n');
+// Use parseFloat() function to convert user input into a number so JavaScript can do math 
 age = parseFloat(age);
 
 // Could also simplify code like so:
