@@ -78,4 +78,4 @@ These keywords tell JavaScript whether you can change the variable later.
 ### When to Use Which?
 - Use `let` if you need to update the value later.
 - Use `const` if the value should never change (or if it’s an array/object you plan to modify *inside* but not reassign).
-- Use arrays when you need a list of items (like a playlist or a list of scores).
+- Use arrays when you need a list of items (like a playlist or a list of player scores).
